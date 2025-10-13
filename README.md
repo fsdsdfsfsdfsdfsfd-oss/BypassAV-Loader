@@ -1,7 +1,7 @@
 # BypassAV-Loader
 用于绕过杀软的加载器，采用的是分离免杀方式
 
-绕过36杀软
+绕过360杀软
 
 <img width="924" height="579" alt="3d17e01a-a88e-4fdb-8b12-ff4b49d44a6e" src="https://github.com/user-attachments/assets/4e805669-26ed-4953-be9c-3f65eb1984f6" />
 
